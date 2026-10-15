@@ -1,0 +1,66 @@
+# Private local stories and recovery / provenance records
+/comics/
+/.local/
+/MIGRATION*.md
+/originals/
+/archive/
+
+# Third-party material: local by default until redistribution rights are verified
+/characters/_sources/
+/characters/_shared/
+/characters/*/sources/
+**/images/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.svg
+*.avif
+*.tif
+*.tiff
+*.pdf
+*.mp4
+*.mov
+
+# OS / editor files
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+Thumbs.db
+Desktop.ini
+desktop.ini
+$RECYCLE.BIN/
+.idea/
+.vscode/
+*.code-workspace
+*.swp
+*.swo
+*~
+*.tmp
+*.bak
+
+# Caches and generated tooling output
+.cache/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.log
+
+# Environment credentials / keys (never commit real secrets)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json

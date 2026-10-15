@@ -1,0 +1,22 @@
+# DeepSeek侦探候选
+
+本卡图片与原始资料链接为仅本地参考，默认不随Git提供；公开出处与许可边界见角色顶层README。
+
+状态：**未采用**。分支ID：`deepseek/detective-v1`。整理日期：2026-10-15；资料来自既有2026-10-14研究，没有新增联网核实或新生成参考。
+
+## 外观、图片与版本边界
+
+两张侦探候选曾保存但未获采用，不能替代已锁定的精良长袖女仆装。常规与Q图是否完全同源配套未独立证实；作者与授权未核实。白饭母题属于鲸娘社区资料，不能直接证明此侦探作者设定。
+
+- [deepseek_detective_chibi_candidate.png](images/deepseek_detective_chibi_candidate.png)
+- [deepseek_detective_detailed_candidate.png](images/deepseek_detective_detailed_candidate.png)
+
+多人比例旁证：[茶会群像](../../_shared/ai_girls_chibi_tea.png)；不是单人同衣装多视图，不替换本分支锚点。
+
+既有外观、性格梗与证据合并于本卡，未知许可不升级为已授权。项目必须复制实际采用内容，不跟随共享卡自动更新。
+
+## 性格梗与证据边界
+
+本分支没有核实到与这些图片同源的完整性格／食物／口头禅设定，未知保持未知。不要从服装或品牌能力补写人格。[同角色默认分支的研究卡](../whale-maid-v1/PROFILE.md)只能用于比较；借用其梗必须标注跨版本改编，不能冒称本分支原设。
+
+研究与出处见 [迁移前完整研究档案](../../_sources/REFERENCES_20261014.md)、[补充研究档案](../../_sources/REFERENCES_EXPANDED_20261014.md)。
